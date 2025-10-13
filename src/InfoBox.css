@@ -1,8 +1,7 @@
-.InfoBox{
-    text-align: center;
-  
+.InfoBox {
+  text-align: center;
 }
-.cardInfo{
+.cardInfo {
   display: flex;
-    justify-content: center;
+  justify-content: center;
 }
